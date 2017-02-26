@@ -1,0 +1,20 @@
+.carousel {
+  
+  height:360px;
+}
+.navbar_custom {
+    padding: 10px;
+}
+.logo{
+	padding: 10px;
+}
+.navbar_links{
+	color:grey;
+}
+.line {
+    
+    border-bottom: 1px solid #ababce;
+}
+.product_thumbnail{
+	border:none;
+}
